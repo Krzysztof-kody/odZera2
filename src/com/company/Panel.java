@@ -17,7 +17,6 @@ public class Panel extends JPanel implements MouseListener {
         g.fillRect(G.x, G.y, 30, 30);
         g.setColor(Color.BLUE);
         g.fillRect(G.x+50, G.y, 30, 30);
-
     }
 
     @Override
